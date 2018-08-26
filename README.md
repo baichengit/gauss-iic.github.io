@@ -1,1 +1,1 @@
-# gauss-iic.github.io
+# Gauss International Investment Club
