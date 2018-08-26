@@ -1,4 +1,4 @@
-# Gauss International Investment Club
+# [Gauss International Investment Club](https://gauss-iic.github.io)
 
 GIIC is designed to commemorate the mathematician Carl Friedrich Gauss, investment and corresponding earnings follow the guidance of a unique algorithm centered on Gauss summation formula.
 
